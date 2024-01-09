@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <h1>Hello IKennCode!</h1>
-      <Link href="/users/new" >Users</Link>
+      <Link href="/users" >Users</Link>
       <ProductCard/>
     </main>
   )
